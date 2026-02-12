@@ -1,0 +1,7 @@
+print(" \\ ")
+print(" 'comillas' ")
+print('"texto" + "texto"')
+print('\n Hola')
+print("\"linea\"")
+print("\ttabular")
+print('this isn\'t a number')
